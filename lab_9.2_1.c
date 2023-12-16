@@ -7,7 +7,7 @@ main() {
     char username[100];
     char password;
     int latter,dight,special;
-    printf("enter your storng :-");
+    printf("enter your storng password :-");
     gets(username);
     if(length < 6){
     	printf("your password is storng");
